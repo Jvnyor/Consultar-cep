@@ -4,6 +4,6 @@ Projeto ao qual desenvolvi um pequeno site com HTML, CSS e JavaScript, onde reto
 
 Link: https://jvnyor.github.io/Consultar-cep/
 
-!(https://i.imgur.com/HkxyNqQ.png)
+![](https://i.imgur.com/HkxyNqQ.png)
 
-!(https://i.imgur.com/q2sr3U0.png)
+![](https://i.imgur.com/q2sr3U0.png)
