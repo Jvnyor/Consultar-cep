@@ -4,7 +4,7 @@ Projeto ao qual desenvolvi um pequeno site com HTML, CSS e JavaScript, onde reto
 
 [Consultar CEP](https://jvnyor.github.io/Consultar-cep/)
 
-## Tecnologias usadas
+## Tecnologias
 - HTML5, CSS3 e JavaScript;
 - API ViaCEP;
 - Método de requisição http Axios.
