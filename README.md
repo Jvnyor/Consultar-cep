@@ -2,8 +2,9 @@
 
 Projeto ao qual desenvolvi um pequeno site com HTML, CSS e JavaScript, onde retorna a consulta do CEP da api do site Viacep através de uma requisição cliente HTTP pelo axios.
 
-Link: [consultar-cep](https://jvnyor.github.io/Consultar-cep/)
+[Consultar CEP](https://jvnyor.github.io/Consultar-cep/)
 
-![](https://i.imgur.com/HkxyNqQ.png)
-
-![](https://i.imgur.com/q2sr3U0.png)
+## Tecnologias usadas
+- HTML5, CSS3 e JavaScript;
+- API ViaCEP;
+- Método de requisição http Axios.
